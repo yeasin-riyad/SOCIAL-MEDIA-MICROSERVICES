@@ -113,7 +113,7 @@ const refreshTokenUser = async (req, res) => {
 
     const storedToken = await RefreshToken.findOne({ token: refreshToken });
 
-    const storedToken = await RefreshToken.deleteOne({ token: refreshToken });
+    // const storedToken = await RefreshToken.deleteOne({ token: refreshToken });
     
     if (!storedToken) {
       logger.warn("Invalid refresh token provided");

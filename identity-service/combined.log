@@ -1,0 +1,8 @@
+{"level":"info","message":"Identity service running on port 3001","service":"api-gateway","timestamp":"2026-08-22T05:49:28.641Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2026-08-22T05:49:29.442Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"api-gateway","timestamp":"2026-08-22T06:16:16.911Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2026-08-22T06:16:17.682Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"api-gateway","timestamp":"2026-08-22T06:27:08.208Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-22T06:27:08.225Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"api-gateway","timestamp":"2026-08-22T06:27:09.176Z"}
+{"i0":6981953,"i1":4046925,"i2":4410885,"i3":3241975,"level":"warn","message":"User saved successfully","service":"api-gateway","timestamp":"2026-08-22T06:27:09.698Z"}
