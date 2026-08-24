@@ -2,3 +2,15 @@
 {"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2026-08-24T05:40:13.926Z"}
 {"level":"info","message":"Media service running on port 3003","service":"post-service","timestamp":"2026-08-24T05:40:13.937Z"}
 {"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-08-24T05:40:14.105Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"post-service","timestamp":"2026-08-24T13:01:30.960Z"}
+{"level":"info","message":"Request body, undefined","service":"post-service","timestamp":"2026-08-24T13:01:30.989Z"}
+{"level":"info","message":"Starting media upload","service":"post-service","timestamp":"2026-08-24T13:01:31.060Z"}
+{"level":"info","message":"File details: name=Atta.jpg, type=image/jpeg","service":"post-service","timestamp":"2026-08-24T13:01:31.090Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"post-service","timestamp":"2026-08-24T13:01:31.093Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - qzao0mglckhtvxldm7mc","service":"post-service","timestamp":"2026-08-24T13:01:33.253Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"post-service","timestamp":"2026-08-24T17:31:35.186Z"}
+{"level":"info","message":"Request body, undefined","service":"post-service","timestamp":"2026-08-24T17:31:35.240Z"}
+{"level":"info","message":"Starting media upload","service":"post-service","timestamp":"2026-08-24T17:31:35.328Z"}
+{"level":"info","message":"File details: name=Atta.jpg, type=image/jpeg","service":"post-service","timestamp":"2026-08-24T17:31:35.355Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"post-service","timestamp":"2026-08-24T17:31:35.356Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - cukdzjf72g3nk5mfzwzi","service":"post-service","timestamp":"2026-08-24T17:31:37.726Z"}
