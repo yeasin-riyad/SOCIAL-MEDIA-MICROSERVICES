@@ -66,6 +66,7 @@ const getAllPosts = async (req, res) => {
     const cachedPosts = await req.redisClient.get(cacheKey);
 
     if (cachedPosts) {
+    //   logger.info("Cach hit for get all posts");
       return res.json(JSON.parse(cachedPosts));
     }
 
@@ -118,7 +119,7 @@ const getPost = async (req, res) => {
     await req.redisClient.setex(
       cachedPost,
       3600,
-      JSON.stringify(singlePostDetailsbyId)
+      JSON.stringify(singlePostDetailsbyId),
     );
 
     res.json(singlePostDetailsbyId);

@@ -1,0 +1,4 @@
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2026-08-24T05:40:13.611Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2026-08-24T05:40:13.926Z"}
+{"level":"info","message":"Media service running on port 3003","service":"post-service","timestamp":"2026-08-24T05:40:13.937Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-08-24T05:40:14.105Z"}
