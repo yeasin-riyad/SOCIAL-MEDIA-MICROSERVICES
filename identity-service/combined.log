@@ -24,3 +24,15 @@
 {"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2026-08-24T17:31:03.728Z"}
 {"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-24T17:31:03.775Z"}
 {"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2026-08-24T17:31:03.855Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2026-08-25T08:04:02.751Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-25T08:04:02.783Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2026-08-25T08:04:02.845Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2026-08-25T10:29:36.848Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-25T10:29:36.873Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2026-08-25T10:29:36.939Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2026-08-25T10:39:57.666Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-25T10:39:57.709Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2026-08-25T10:39:57.777Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2026-08-25T11:18:09.098Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-25T11:18:09.144Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2026-08-25T11:18:09.222Z"}
