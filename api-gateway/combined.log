@@ -81,3 +81,12 @@
 {"level":"info","message":"Received POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2026-08-24T17:35:36.159Z"}
 {"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-24T17:35:36.173Z"}
 {"level":"info","message":"Response received from Post service: 201","service":"api-gateway","timestamp":"2026-08-24T17:35:36.774Z"}
+{"level":"info","message":"Received DELETE request to /v1/posts/6a8c80e8a3f53128326ecf47","service":"api-gateway","timestamp":"2026-08-24T18:06:27.202Z"}
+{"level":"info","message":"Request body, undefined","service":"api-gateway","timestamp":"2026-08-24T18:06:27.238Z"}
+{"level":"info","message":"Response received from Post service: 200","service":"api-gateway","timestamp":"2026-08-24T18:06:27.782Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2026-08-24T18:14:46.119Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2026-08-24T18:14:46.153Z"}
+{"level":"info","message":"Response received from Post service: 201","service":"api-gateway","timestamp":"2026-08-24T18:14:46.625Z"}
+{"level":"info","message":"Received DELETE request to /v1/posts/6a8c8a16a3f53128326ecf48","service":"api-gateway","timestamp":"2026-08-24T18:15:30.234Z"}
+{"level":"info","message":"Request body, undefined","service":"api-gateway","timestamp":"2026-08-24T18:15:30.235Z"}
+{"level":"info","message":"Response received from Post service: 200","service":"api-gateway","timestamp":"2026-08-24T18:15:30.344Z"}
