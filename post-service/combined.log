@@ -56,3 +56,31 @@
 {"level":"info","message":"Received DELETE request to /api/posts/6a8c8a16a3f53128326ecf48","service":"post-service","timestamp":"2026-08-24T18:15:30.253Z"}
 {"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-24T18:15:30.254Z"}
 {"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2026-08-24T18:15:30.339Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-08-25T08:06:57.004Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T08:06:57.042Z"}
+{"level":"info","message":"Create post endpoint hit","service":"post-service","timestamp":"2026-08-25T08:06:57.048Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2026-08-25T08:06:57.920Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":null,"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"6a8d4d21a3f53128326ecf49","content":"2nd post created with image","createdAt":"2026-08-25T08:06:57.133Z","mediaIds":["6a8c7ff9e8e708fb4b5f3f3a"],"updatedAt":"2026-08-25T08:06:57.133Z","user":"6a89a0b1c04d434e053177f9"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null,"validationError":null},"$isNew":false,"_doc":{"__v":0,"_id":"6a8d4d21a3f53128326ecf49","content":"2nd post created with image","createdAt":"2026-08-25T08:06:57.133Z","mediaIds":["6a8c7ff9e8e708fb4b5f3f3a"],"updatedAt":"2026-08-25T08:06:57.133Z","user":"6a89a0b1c04d434e053177f9"},"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-08-25T08:06:57.938Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2026-08-25T08:09:39.228Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T08:09:39.232Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2026-08-25T10:29:54.556Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T10:29:54.587Z"}
+{"level":"info","message":"Received GET request to /api/posts/query=node","service":"post-service","timestamp":"2026-08-25T10:40:10.917Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T10:40:10.961Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getPost (D:\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:127:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","service":"post-service","timestamp":"2026-08-25T10:40:11.161Z"}
+{"level":"info","message":"Received GET request to /api/posts?query=node","service":"post-service","timestamp":"2026-08-25T10:41:36.541Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T10:41:36.553Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2026-08-25T10:44:30.491Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T10:44:30.518Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/6a8c8a16a3f53128326ecf48","service":"post-service","timestamp":"2026-08-25T10:53:16.901Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T10:53:16.935Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/6a8d4d21a3f53128326ecf49","service":"post-service","timestamp":"2026-08-25T10:53:44.999Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T10:53:45.001Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2026-08-25T10:53:45.397Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-08-25T11:19:48.447Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T11:19:48.486Z"}
+{"level":"info","message":"Create post endpoint hit","service":"post-service","timestamp":"2026-08-25T11:19:48.494Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2026-08-25T11:19:48.762Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":null,"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"6a8d7a54a3f53128326ecf4a","content":"2nd post created with image","createdAt":"2026-08-25T11:19:48.604Z","mediaIds":["6a8c7ff9e8e708fb4b5f3f3a"],"updatedAt":"2026-08-25T11:19:48.604Z","user":"6a89a0b1c04d434e053177f9"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null,"validationError":null},"$isNew":false,"_doc":{"__v":0,"_id":"6a8d7a54a3f53128326ecf4a","content":"2nd post created with image","createdAt":"2026-08-25T11:19:48.604Z","mediaIds":["6a8c7ff9e8e708fb4b5f3f3a"],"updatedAt":"2026-08-25T11:19:48.604Z","user":"6a89a0b1c04d434e053177f9"},"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-08-25T11:19:48.783Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2026-08-25T11:19:58.140Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-08-25T11:19:58.141Z"}

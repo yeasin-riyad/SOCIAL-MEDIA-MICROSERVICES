@@ -18,3 +18,12 @@
 {"0":"q","1":"z","10":"h","11":"t","12":"v","13":"x","14":"l","15":"d","16":"m","17":"7","18":"m","19":"c","2":"a","3":"o","4":"0","5":"m","6":"g","7":"l","8":"c","9":"k","level":"info","message":"Media deleted successfuly from cloud stroage","service":"post-service","timestamp":"2026-08-24T18:15:32.412Z"}
 {"level":"info","message":"Deleted medua 6a8c40ade8e708fb4b5f3f39 associated with this deleted post 6a8c8a16a3f53128326ecf48","service":"post-service","timestamp":"2026-08-24T18:15:32.483Z"}
 {"level":"info","message":"Processed deletion of media for post id 6a8c8a16a3f53128326ecf48","service":"post-service","timestamp":"2026-08-24T18:15:32.484Z"}
+{"0":"c","1":"u","10":"3","11":"n","12":"k","13":"5","14":"m","15":"f","16":"z","17":"w","18":"z","19":"i","2":"k","3":"d","4":"z","5":"j","6":"f","7":"7","8":"2","9":"g","level":"info","message":"Media deleted successfuly from cloud stroage","service":"post-service","timestamp":"2026-08-25T10:53:48.013Z"}
+{"level":"info","message":"Deleted medua 6a8c7ff9e8e708fb4b5f3f3a associated with this deleted post 6a8d4d21a3f53128326ecf49","service":"post-service","timestamp":"2026-08-25T10:53:48.173Z"}
+{"level":"info","message":"Processed deletion of media for post id 6a8d4d21a3f53128326ecf49","service":"post-service","timestamp":"2026-08-25T10:53:48.178Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"post-service","timestamp":"2026-08-25T11:18:46.122Z"}
+{"level":"info","message":"Request body, undefined","service":"post-service","timestamp":"2026-08-25T11:18:46.225Z"}
+{"level":"info","message":"Starting media upload","service":"post-service","timestamp":"2026-08-25T11:18:46.388Z"}
+{"level":"info","message":"File details: name=Atta.jpg, type=image/jpeg","service":"post-service","timestamp":"2026-08-25T11:18:46.443Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"post-service","timestamp":"2026-08-25T11:18:46.443Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - j6zgeknflno4y9ex7qqk","service":"post-service","timestamp":"2026-08-25T11:18:48.670Z"}
